@@ -22,7 +22,7 @@ out, would love to connect and share pointers. Thanks!</p>
   <li>SneakerHead</li>
   <li>Fashion</li>
   <li>ScreenPrinting</li>
-  <li>Collector of many things, master of many(Supreme, Kaws bearbricks, Cologne, Watches, etc...)</li>
+  <li>Collector of many things (Supreme, Kaws bearbricks, Cologne, Watches, etc...)</li>
   <li>Hot Sauce enthusiast</li>
   <li>Playing Sports (Soccer, Spikeball, Basketball, Volleyball, etc...)</li>
 </ul>
